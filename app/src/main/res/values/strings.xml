@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DiabIA</string>
+
+    <string name="str_load">Loading...</string>
+
+    <string name="str_start">If you wanna set new habits please answer the test.</string>
+    <string name="str_startBtn">Start Test</string>
+    <string name="str_makeNotification">Make Notification</string>
+
+    <string name="str_instructions">Answer the following questions:</string>
+    <string name="str_question">This is a question</string>
+    <string name="str_answer_1">Answer 1</string>
+    <string name="str_answer_2">Answer 2</string>
+    <string name="str_answer_3">Answer 3</string>
+
+    <string name="str_notification_title">Notification Title</string>
+    <string name="str_notification_description">Notification Description Here!</string>
+</resources>
